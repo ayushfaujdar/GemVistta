@@ -1,0 +1,17 @@
+.poster{
+    width: 50;
+    margin-left: 25%;
+    color: white;
+    font-family: "Libre Baskerville serif";
+    text-align: center;
+}
+#girl{
+    border: 5px solid white;
+    padding: 5px solid white;
+}
+#text{
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    background-color: black;
+}
